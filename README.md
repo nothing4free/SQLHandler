@@ -1,5 +1,5 @@
 # SQLHandler
-Simple Java-based database manager for an university project. This program works with the SQL database provided in the "database" directory.<br>
+Simple Java-based database manager for an university project. My friends Pedro Ventura, Henri Banyuls and I designed the database, and I created this manager. This program works with the SQL database provided in the "database" directory.<br>
 Feel free to take a look at the code, learn from it, and make your own!
 
 # Author
